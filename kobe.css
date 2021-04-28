@@ -1,3 +1,17 @@
 #title {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+#navbar {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+a {
+  color: purple;
+  font-size: 16px;
+}
+a:hover {
+  color: gold;
+}
+.bullets {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #252525; 
+}
